@@ -2,29 +2,29 @@
     <string name="app_name" translatable="false">Iconify</string>
 
     <!-- Activities -->
-    <string name="activity_title_brightness_bar">Brightness Bar</string>
-    <string name="activity_desc_brightness_bar">Customize progress slider</string>
-    <string name="activity_title_color_engine">Color Engine</string>
-    <string name="activity_desc_color_engine">Have control over colors</string>
-    <string name="activity_title_extras">Extras</string>
-    <string name="activity_desc_extras">Additional tweaks and options</string>
+    <string name="activity_title_brightness_bar">Pasek jasności</string>
+    <string name="activity_desc_brightness_bar">Dostosuj wygląd paska jasności</string>
+    <string name="activity_title_color_engine">Silnik kolorów</string>
+    <string name="activity_desc_color_engine">Miej kontrolę nad kolorami</string>
+    <string name="activity_title_extras">Dodatki</string>
+    <string name="activity_desc_extras">Dodatkowe opcje</string>
     <string name="activity_title_home_page">Iconify</string>
-    <string name="activity_title_icon_pack">Icon Pack</string>
-    <string name="activity_desc_icon_pack">Change system icon pack</string>
-    <string name="activity_title_info">About</string>
-    <string name="activity_desc_info">Information about this app</string>
-    <string name="activity_title_media_player">Media Player</string>
-    <string name="activity_desc_media_player">Change how media player looks</string>
-    <string name="activity_title_notification">Notification</string>
-    <string name="activity_desc_notification">Customize notification style</string>
+    <string name="activity_title_icon_pack">Paczka ikon</string>
+    <string name="activity_desc_icon_pack">Dostosuj wygląd ikon systemowych</string>
+    <string name="activity_title_info">O aplikacji</string>
+    <string name="activity_desc_info">Informacje o aplikacji</string>
+    <string name="activity_title_media_player">Odtwarzacz multimediów</string>
+    <string name="activity_desc_media_player">Dostosuj wygląd odtwarzacza multimediów</string>
+    <string name="activity_title_notification">Powiadomienia</string>
+    <string name="activity_desc_notification">Dostosuj wygląd powiadomień</string>
     <string name="activity_title_qs_icon_label">Icon and Label</string>
     <string name="activity_title_qs_row_column">Row and Column</string>
-    <string name="activity_title_qs_shape">QS Panel Tiles</string>
+    <string name="activity_title_qs_shape">Kafelki szybkich ustawień</string>
     <string name="activity_desc_qs_shape">Customize QS panel tiles</string>
-    <string name="activity_title_settings">Settings</string>
+    <string name="activity_title_settings">Ustawienia</string>
     <string name="activity_desc_settings">Miscellaneous settings</string>
-    <string name="activity_title_volume_panel">Volume Panel</string>
-    <string name="activity_desc_volume_panel">Customize volume panel design</string>
+    <string name="activity_title_volume_panel">Panel głośności</string>
+    <string name="activity_desc_volume_panel">Dosto</string>
     <string name="activity_title_monet_engine">Monet Engine</string>
     <string name="activity_desc_monet_engine">Override monet color palette</string>
     <string name="activity_title_experimental">Experimental</string>
